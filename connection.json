@@ -1,0 +1,9 @@
+{
+    "account"   : "****",
+    "user"      : "****",
+    "password"  : "****",
+    "role": "sysadmin",
+    "warehouse": "app_wh",
+    "database": "RETAIL_FOOT_TRAFFIC_DATA",
+    "schema": "PUBLIC"
+}
