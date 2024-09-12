@@ -3,7 +3,7 @@
     "user"      : "****",
     "password"  : "****",
     "role": "sysadmin",
-    "warehouse": "app_wh",
+    "warehouse": "****",
     "database": "RETAIL_FOOT_TRAFFIC_DATA",
     "schema": "PUBLIC"
 }
